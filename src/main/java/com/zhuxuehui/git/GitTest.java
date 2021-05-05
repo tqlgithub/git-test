@@ -10,5 +10,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.err.println("hello git");
         System.err.println("hello gi2");
+        System.err.println("hello gi3");
     }
 }
